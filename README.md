@@ -1,6 +1,8 @@
 # my-hyper
 My Hyper Configuration
 
+![Screenshot](hyper.png)
+
 ## Required
 
 * [Powerline Font](https://github.com/powerline/powerline)
